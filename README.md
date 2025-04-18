@@ -23,5 +23,3 @@ This project leverages **Transfer Learning** with the **VGG16 Convolutional Neur
 - Transfer Learning (VGG16)
 
 ---
-
-## 📂 Folder Structure
